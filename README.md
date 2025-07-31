@@ -1,0 +1,1 @@
+# Alzheimers-disease-prediction-using-cnn-xgboost-and-stacked-pretrained-model
